@@ -1,14 +1,14 @@
 const prizes = [
 
-    "🎁 Gift Voucher",
-    "☕ Free Coffee",
-    "🍫 Chocolate Box",
-    "🎧 Surprise Gift",
-    "💰 Cash Prize",
-    "🍔 Free Lunch",
-    "🎟 Movie Ticket",
-    "⌚ Premium Gift",
-    "⭐ Better Luck Next Time"
+    "💸 ₹25",
+    "💸 ₹100",
+    "😭 ₹0",
+    "💸 ₹500🥳",
+    "💸 ₹150 ",
+    "💸 ₹50",
+    "💸 ₹300🎉",
+    "💸 ₹10 ",
+    "💸 ₹250 "
 
 ];
 

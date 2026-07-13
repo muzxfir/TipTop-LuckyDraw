@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tip Top Lucky Draw</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+<div class="container">
+
+    <h1>🎁 Tip Top Lucky Draw</h1>
+
+    <p id="message">
+        Select Your Lucky Number
+    </p>
+
+
+    <div class="number-boxes">
+
+        <button onclick="playGame(1,this)">1</button>
+        <button onclick="playGame(2,this)">2</button>
+        <button onclick="playGame(3,this)">3</button>
+
+        <button onclick="playGame(4,this)">4</button>
+        <button onclick="playGame(5,this)">5</button>
+        <button onclick="playGame(6,this)">6</button>
+
+        <button onclick="playGame(7,this)">7</button>
+        <button onclick="playGame(8,this)">8</button>
+        <button onclick="playGame(9,this)">9</button>
+
+    </div>
+
+</div>
+
+
+
+<!-- Prize Popup -->
+
+<div id="popup">
+
+    <div class="popup-content">
+
+        <h2>🎉 Congratulations 🎉</h2>
+
+        <p id="winnerPrize"></p>
+
+        <button class="close-btn" onclick="closePopup()">
+            OK
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

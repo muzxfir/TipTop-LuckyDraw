@@ -1,39 +1,101 @@
-# 🎁 TipTop Lucky Draw Game
+# 🎁 TipTop Lucky Draw
 
-A modern and interactive **Lucky Draw Game** built with HTML, CSS, and JavaScript.
+<p align="center">
 
-Players can select numbers from **1 to 9** and get a random prize with animations and celebration effects.
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Technology-HTML%20CSS%20JS-orange?style=for-the-badge">
 
-🌐 Live Demo:
-https://muzxfir.github.io/TipTop-LuckyDraw/
-
-
-## ✨ Features
-
-✅ 1 - 9 Colour Number Selection  
-✅ Random Prize Generator  
-✅ Unlimited Play  
-✅ Smooth Click Animation  
-✅ Prize Popup Screen  
-✅ Confetti Celebration Effect  
-✅ Sound Effect  
-✅ Mobile Responsive Design  
-✅ Fast Loading  
-✅ GitHub Pages Ready  
+</p>
 
 
-## 🎮 How To Play
-
-1. Open the game link
-2. Select any lucky number from 1 to 9
-3. Wait for the animation
-4. Get your random prize 🎁
+<h3 align="center">
+✨ A Fun & Interactive Lucky Draw Experience ✨
+</h3>
 
 
-## 📂 Project Structure
+<p align="center">
+
+🎯 Pick a number  
+🎁 Get a surprise prize  
+🎉 Enjoy animation & celebration  
+
+</p>
+
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Play Now**
+
+👉 https://muzxfir.github.io/TipTop-LuckyDraw/
+
+
+---
+
+# 🎮 About The Game
+
+**TipTop Lucky Draw** is a modern web-based lucky draw game where users can select a lucky number from **1 to 9** and receive a random prize with exciting visual effects.
+
+Designed for:
+- 🎊 Events
+- 🏢 Company Activities
+- 🎁 Promotions
+- 🎉 Fun Games
+
+
+---
+
+# ✨ Features
+
+| Feature | Status |
+|---|---|
+| 🔢 1-9 Number Selection | ✅ |
+| 🎨 Colourful Number Cards | ✅ |
+| 🎁 Random Prize System | ✅ |
+| ♾️ Unlimited Play | ✅ |
+| ✨ Smooth Animation | ✅ |
+| 🎊 Confetti Celebration | ✅ |
+| 🔊 Sound Effect | ✅ |
+| 📱 Mobile Friendly | ✅ |
+| 🚀 GitHub Pages Hosting | ✅ |
+
+
+---
+
+# 🖥️ Preview
+
+<p align="center">
+
+🎁 TipTop Lucky Draw Game Interface
+
+</p>
+
+
+---
+
+# 🕹️ How To Play
+
+### Step 1
+Open the game link
+
+### Step 2
+Choose any lucky number
+
+### Step 3
+Wait for the animation
+
+### Step 4
+Enjoy your random prize 🎉
+
+
+---
+
+# 📂 Project Structure
 
 ```
-TipTop-LuckyDraw/
+TipTop-LuckyDraw
 │
 ├── index.html
 ├── style.css
@@ -41,33 +103,56 @@ TipTop-LuckyDraw/
 ```
 
 
-## 🛠️ Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript
+# 🛠️ Built With
 
+<p>
 
-## 🎨 Preview
+💻 HTML5  
+🎨 CSS3  
+⚡ JavaScript  
 
-TipTop Lucky Draw provides a fun and interactive experience with colourful buttons, animations, and prize effects.
-
-
-## 🚀 Deployment
-
-This project is hosted using:
-
-**GitHub Pages**
+</p>
 
 
-## 👨‍💻 Developer
+---
 
-Created by **Muzxfir**
+# 🚀 Deployment
+
+Hosted with:
+
+🌐 **GitHub Pages**
+
+Live:
+https://muzxfir.github.io/TipTop-LuckyDraw/
+
+
+---
+
+# 🎯 Future Updates
+
+- 🏆 Winner History
+- 👤 Player Name Entry
+- 🎁 Prize Images
+- 📊 Admin Dashboard
+- 🔐 Database Support
+
+
+---
+
+# 👨‍💻 Creator
+
+### Muzxfir
 
 GitHub:
 https://github.com/muzxfir
 
 
-## 📄 License
+---
 
-This project is free to use for personal and learning purposes.
+<p align="center">
+
+⭐ If you like this project, give it a star!
+
+</p>
